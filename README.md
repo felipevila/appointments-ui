@@ -19,3 +19,6 @@ git clone https://github.com/felipevila/appointments-ui.git
 * You can use date-management libraries
 * Use semantic HTML and best CSS practices
 * You can use any icon library of your choice
+* The user shoud be able to filter the list of appointments
+* The user should be able to delete and update the status of an appointment
+* The user should be able to see the appointment detail on the right
